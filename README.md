@@ -13,7 +13,7 @@ If you need an example of a good README, check out [the VSCode repository](https
 To see a video of how it works, please click on this link: https://drive.google.com/file/d/16X4BPDj9JFx3_-GtsjYOnBB0yUsBUamC/view 
 
 Please also see the screenshots below as well for further reference: 
-
+/Users/vithushanesan/Desktop/bootcamp/Readme-/assets/Screen Shot 2021-02-11 at 10.21.22 PM.png
 
 
 ## Table of Contents (Optional)
